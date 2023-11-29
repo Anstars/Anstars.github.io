@@ -102,5 +102,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repostory: git@github.com:Anstars/Anstars.github.io.git
+  repo: https://github.com/Anstars/Anstars.github.io.git
   branch: master
